@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2012\Projects\Windowsnew\Windowsnew\bin\Debug\Windowsnew.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\Windowsnew\Windowsnew\bin\Debug\Windowsnew.exe
+c:\users\administrator\documents\visual studio 2012\Projects\Windowsnew\Windowsnew\bin\Debug\Windowsnew.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\Windowsnew\Windowsnew\bin\Debug\Windowsnew.xml
+c:\users\administrator\documents\visual studio 2012\Projects\Windowsnew\Windowsnew\obj\Debug\Windowsnew.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\Windowsnew\Windowsnew\obj\Debug\Windowsnew.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\Windowsnew\Windowsnew\obj\Debug\Windowsnew.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\Windowsnew\Windowsnew\obj\Debug\Windowsnew.exe
+c:\users\administrator\documents\visual studio 2012\Projects\Windowsnew\Windowsnew\obj\Debug\Windowsnew.xml
+c:\users\administrator\documents\visual studio 2012\Projects\Windowsnew\Windowsnew\obj\Debug\Windowsnew.pdb

@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2012\Projects\loml\loml\bin\Debug\loml.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\loml\loml\bin\Debug\loml.exe
+c:\users\administrator\documents\visual studio 2012\Projects\loml\loml\bin\Debug\loml.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\loml\loml\bin\Debug\loml.xml
+c:\users\administrator\documents\visual studio 2012\Projects\loml\loml\obj\Debug\loml.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\loml\loml\obj\Debug\loml.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\loml\loml\obj\Debug\loml.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\loml\loml\obj\Debug\loml.exe
+c:\users\administrator\documents\visual studio 2012\Projects\loml\loml\obj\Debug\loml.xml
+c:\users\administrator\documents\visual studio 2012\Projects\loml\loml\obj\Debug\loml.pdb

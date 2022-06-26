@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2012\Projects\evenodd\evenodd\bin\Debug\evenodd.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\evenodd\evenodd\bin\Debug\evenodd.exe
+c:\users\administrator\documents\visual studio 2012\Projects\evenodd\evenodd\bin\Debug\evenodd.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\evenodd\evenodd\bin\Debug\evenodd.xml
+c:\users\administrator\documents\visual studio 2012\Projects\evenodd\evenodd\obj\Debug\evenodd.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\evenodd\evenodd\obj\Debug\evenodd.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\evenodd\evenodd\obj\Debug\evenodd.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\evenodd\evenodd\obj\Debug\evenodd.exe
+c:\users\administrator\documents\visual studio 2012\Projects\evenodd\evenodd\obj\Debug\evenodd.xml
+c:\users\administrator\documents\visual studio 2012\Projects\evenodd\evenodd\obj\Debug\evenodd.pdb

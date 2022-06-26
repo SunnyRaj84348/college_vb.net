@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2012\Projects\dbtest\dbtest\bin\Debug\dbtest.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\dbtest\dbtest\bin\Debug\dbtest.exe
+c:\users\administrator\documents\visual studio 2012\Projects\dbtest\dbtest\bin\Debug\dbtest.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\dbtest\dbtest\bin\Debug\dbtest.xml
+c:\users\administrator\documents\visual studio 2012\Projects\dbtest\dbtest\obj\Debug\dbtest.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\dbtest\dbtest\obj\Debug\dbtest.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\dbtest\dbtest\obj\Debug\dbtest.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\dbtest\dbtest\obj\Debug\dbtest.exe
+c:\users\administrator\documents\visual studio 2012\Projects\dbtest\dbtest\obj\Debug\dbtest.xml
+c:\users\administrator\documents\visual studio 2012\Projects\dbtest\dbtest\obj\Debug\dbtest.pdb

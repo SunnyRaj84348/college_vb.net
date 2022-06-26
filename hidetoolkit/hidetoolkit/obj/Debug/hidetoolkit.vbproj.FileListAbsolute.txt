@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2012\Projects\hidetoolkit\hidetoolkit\bin\Debug\hidetoolkit.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\hidetoolkit\hidetoolkit\bin\Debug\hidetoolkit.exe
+c:\users\administrator\documents\visual studio 2012\Projects\hidetoolkit\hidetoolkit\bin\Debug\hidetoolkit.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\hidetoolkit\hidetoolkit\bin\Debug\hidetoolkit.xml
+c:\users\administrator\documents\visual studio 2012\Projects\hidetoolkit\hidetoolkit\obj\Debug\hidetoolkit.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\hidetoolkit\hidetoolkit\obj\Debug\hidetoolkit.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\hidetoolkit\hidetoolkit\obj\Debug\hidetoolkit.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\hidetoolkit\hidetoolkit\obj\Debug\hidetoolkit.exe
+c:\users\administrator\documents\visual studio 2012\Projects\hidetoolkit\hidetoolkit\obj\Debug\hidetoolkit.xml
+c:\users\administrator\documents\visual studio 2012\Projects\hidetoolkit\hidetoolkit\obj\Debug\hidetoolkit.pdb

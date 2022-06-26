@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2012\Projects\text\text\bin\Debug\text.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\text\text\bin\Debug\text.exe
+c:\users\administrator\documents\visual studio 2012\Projects\text\text\bin\Debug\text.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\text\text\bin\Debug\text.xml
+c:\users\administrator\documents\visual studio 2012\Projects\text\text\obj\Debug\text.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\text\text\obj\Debug\text.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\text\text\obj\Debug\text.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\text\text\obj\Debug\text.exe
+c:\users\administrator\documents\visual studio 2012\Projects\text\text\obj\Debug\text.xml
+c:\users\administrator\documents\visual studio 2012\Projects\text\text\obj\Debug\text.pdb

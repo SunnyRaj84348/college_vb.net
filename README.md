@@ -1,2 +1,2 @@
 # college_vb.net
-Few programs while learning VB.Net
+Few programs written while learning VB.Net

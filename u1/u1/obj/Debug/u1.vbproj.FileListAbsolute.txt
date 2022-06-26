@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2012\Projects\u1\u1\bin\Debug\u1.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\u1\u1\bin\Debug\u1.exe
+c:\users\administrator\documents\visual studio 2012\Projects\u1\u1\bin\Debug\u1.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\u1\u1\bin\Debug\u1.xml
+c:\users\administrator\documents\visual studio 2012\Projects\u1\u1\obj\Debug\u1.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\u1\u1\obj\Debug\u1.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\u1\u1\obj\Debug\u1.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\u1\u1\obj\Debug\u1.exe
+c:\users\administrator\documents\visual studio 2012\Projects\u1\u1\obj\Debug\u1.xml
+c:\users\administrator\documents\visual studio 2012\Projects\u1\u1\obj\Debug\u1.pdb

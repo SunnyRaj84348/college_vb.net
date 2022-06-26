@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2012\Projects\db\db\bin\Debug\db.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\db\db\bin\Debug\Database1.accdb
+c:\users\administrator\documents\visual studio 2012\Projects\db\db\bin\Debug\db.exe
+c:\users\administrator\documents\visual studio 2012\Projects\db\db\bin\Debug\db.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\db\db\bin\Debug\db.xml
+c:\users\administrator\documents\visual studio 2012\Projects\db\db\obj\Debug\db.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\db\db\obj\Debug\db.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\db\db\obj\Debug\db.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\db\db\obj\Debug\db.exe
+c:\users\administrator\documents\visual studio 2012\Projects\db\db\obj\Debug\db.xml
+c:\users\administrator\documents\visual studio 2012\Projects\db\db\obj\Debug\db.pdb

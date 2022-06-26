@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2012\Projects\exp_prod\exp_prod\bin\Debug\exp_prod.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\exp_prod\exp_prod\bin\Debug\exp_prod.exe
+c:\users\administrator\documents\visual studio 2012\Projects\exp_prod\exp_prod\bin\Debug\exp_prod.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\exp_prod\exp_prod\bin\Debug\exp_prod.xml
+c:\users\administrator\documents\visual studio 2012\Projects\exp_prod\exp_prod\obj\Debug\exp_prod.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\exp_prod\exp_prod\obj\Debug\exp_prod.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\exp_prod\exp_prod\obj\Debug\exp_prod.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\exp_prod\exp_prod\obj\Debug\exp_prod.exe
+c:\users\administrator\documents\visual studio 2012\Projects\exp_prod\exp_prod\obj\Debug\exp_prod.xml
+c:\users\administrator\documents\visual studio 2012\Projects\exp_prod\exp_prod\obj\Debug\exp_prod.pdb
